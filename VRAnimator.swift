@@ -1,9 +1,7 @@
 //
 //  VRAnimator.swift
-//  Slave
 //
 //  Created by Viktor Radchenko on 7/31/14.
-//  Copyright (c) 2014 Nicholas Tau. All rights reserved.
 //
 
 import Foundation
